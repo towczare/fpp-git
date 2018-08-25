@@ -11,6 +11,7 @@ git config --global <key> <value>
 | `core.editor`  | vim  |
 | `color.ui`  | auto |
 | `merge.tool`  | meld |
+
 to see full list use `git config --list` This also shows what are current values.
 # Exercises
 Configure following settings:
