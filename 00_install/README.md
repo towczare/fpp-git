@@ -14,3 +14,7 @@ as alternative, you can use Cygwin https://www.cygwin.com
 
 ## Mac OS X
 Git will be available together with Xcode tools.
+
+# Connecting to GitHub with SSH
+
+https://help.github.com/articles/connecting-to-github-with-ssh/
