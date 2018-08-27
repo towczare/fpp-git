@@ -9,8 +9,9 @@ Install using package manager
 ## Windows
 Install babun tool. This one contains Cygwin and several useful tools.
 - http://babun.github.io
-
 as alternative, you can use Cygwin https://www.cygwin.com 
+- after b abun installation run:
+`pact install meld`
 
 ## Mac OS X
 Git will be available together with Xcode tools.
