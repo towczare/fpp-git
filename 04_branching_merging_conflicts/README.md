@@ -153,3 +153,22 @@ Here is how git log should look like. Notice new commit working as glue between 
 * d5d2858 Initial commit
 ```
 
+# Exercise
+Following exercise is going to get you hands on labs and play a little bit with branching, merging model.
+![Lion](lion.jpg)
+*Lion is king of jungle. You are going to become king of git!*
+
+1. Use your `animal` repository
+2. Create new branch `zoo` as child of `master` branch
+3. Add multiple animal files representing animals you can find in zoo. Each animals should be comited as separated commit.
+   Here is some example:
+   - hippo.txt
+   - tiger.txt
+   - bear.txt
+   - lion.txt
+   Fill each animal file body with location like `cage a82`
+4. Add new branch `safari` as child of `master` branch and prepare some animals you can find during safari. 
+   Fill body of each file with location like `sector X`
+5. Create third branch called `freedom` as child of `master` branch and merge both `zoo` and `safari` 
+   You should get conflicts to resolve, fill it with new value of country where given wild animal can be found.
+    
