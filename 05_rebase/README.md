@@ -163,3 +163,26 @@ Let's see what changed in our log.
 ```
 As you can see, we squashed 5 commits into single one and rebased on top of `short_gama` branch.
 Congratulations!
+
+# Exercise
+1. Create multiple branches each representing different classes of animals all having `master` parent. 
+   Here is list of all groups:
+   - branch `dogs` add multiple dogs one per commit:
+   -- `Pimpuś.txt`
+   -- `Reksio.txt`
+   - branch `elephants` the same with elephants
+   -- `Surus.txt`
+   -- `Jumbo.txt`
+   - branch `fishes` and with fishes
+   -- `Goldfish.txt`
+   -- `Blowfish.txt`
+   -- `SharkFromJaws.txt`
+2. Now create new branch called `asc_size_animal`
+3. Your exercise is to rebase all branches starting from the smallest group of animals, ending with biggest one. 
+4. The one additional requirement is to squash all dogs before rebase.
+5. You should end up with following commit list on top of master branch:
+```
+master -> goldfish commit -> blowfish commit -> shark commit -> pimpuś & reksio commit (squashed) -> surus commit -> jumbo commit
+``` 
+6. As the last step, fast forward merge master to point to last elephant.
+   

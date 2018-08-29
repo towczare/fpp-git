@@ -166,6 +166,7 @@ Following exercise is going to get you hands on labs and play a little bit with 
    - tiger.txt
    - bear.txt
    - lion.txt
+   
    Fill each animal file body with location like `cage a82`
 4. Add new branch `safari` as child of `master` branch and prepare some animals you can find during safari. 
    Fill body of each file with location like `sector X`
