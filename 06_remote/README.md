@@ -98,3 +98,8 @@ To achieve it use following checkout command:
 ```
 git checkout -b go_github_go origin/go_github_go
 ```
+
+# Exercise
+1. Create new repository on `github.com` called `animals`
+2. Set up this newly created repository as remote for your local animal repository
+3. Push your changes
