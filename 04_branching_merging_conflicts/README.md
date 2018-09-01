@@ -4,7 +4,7 @@
 List of commands, we are going to learn during this session.
 - `git checkout`
 - `git branch`
-- `gir log --graph`
+- `git log --graph`
 ## List all branches
 First let's list all available branches
 ```
