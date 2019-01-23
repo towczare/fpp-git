@@ -43,6 +43,13 @@ cd git-examples
 git status
 ```
 
+# Create GITHUB account
+
+1. Go to [https://github.com](https://github.com) and register.
+
 # Connecting to GitHub with SSH
 
 https://help.github.com/articles/connecting-to-github-with-ssh/
+
+1. Follow instructions [https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows)
+2. Add key to your github account [https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
