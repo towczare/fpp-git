@@ -156,7 +156,7 @@ Here is how git log should look like. Notice new commit working as glue between 
 # Exercise
 Following exercise is going to get you hands on labs and play a little bit with branching, merging model.
 ![Lion](lion.jpg)
-*Lion is king of jungle. You are going to become king of git!*
+*Lion is the king of jungle. You are going to be the king of git!*
 
 1. Use your `animal` repository
 2. Create new branch `zoo` as child of `master` branch
